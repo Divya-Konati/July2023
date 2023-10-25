@@ -1,3 +1,2 @@
 Hi this is changes made in cenrtal repo
-
-this is the changes made
+this is newline2
