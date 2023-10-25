@@ -1,2 +1,3 @@
 Hi this is changes made in cenrtal repo
 this is newline2
+Dummy line
